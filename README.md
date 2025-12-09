@@ -8,9 +8,7 @@ To write a program to implement the the Logistic Regression Model to Predict the
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-Perfect, Harini 👍. Since you want an algorithm (step-by-step procedure) for implementing a Logistic Regression Model to predict the placement status of a student, let’s break it down clearly and systematically.
 
-🧮 Algorithm: Logistic Regression for Student Placement Prediction
 Step 1: Define the Problem
 - Goal: Predict whether a student gets placed (Yes/No).
 - Dependent variable (Y): Placement status (binary: 1 = Placed, 0 = Not Placed).
